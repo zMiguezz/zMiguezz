@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hector Miguel!</h1>
 <h3 align="center">A passionate frontend developer from México :mexico: </h3>
 
-- 🔭 I’m currently working on [MALIT](https://github.com/JHUMBERTTO/Malit-App.git)
-
-- 🌱 I’m currently learning **in DEVF**
+- 🔭 Chek this! [MALIT](https://github.com/JHUMBERTTO/Malit-App.git)
 
 - 💬 Ask me about **react, js, html, css, python and sql.**
 
