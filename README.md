@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hector Miguel!</h1>
-<h3 align="center">A passionate fullstack developer from México :mexico: </h3>
+<h3 align="center">A passionate developer from México :mexico: </h3>
 
 - 🔭 Chek this! [MALIT](https://github.com/JHUMBERTTO/Malit-App.git)
 
